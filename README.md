@@ -5,4 +5,5 @@ Auto Fisher made for growtopia
 
 Script works by replacing the water particle with red splashes, which are easier for ahk to detect. This works flawlessly. Does not require injection as the script itself is entirely external
 
+Youtube Preview:
 [![Preview](https://img.youtube.com/vi/rxai7jlbq1g/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxai7jlbq1g)
